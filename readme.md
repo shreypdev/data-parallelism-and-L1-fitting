@@ -10,11 +10,6 @@
 
 ## Author Info
 Name: Shrey Patel
-V#: V00900319
-Course: CSC 360
-Section: A1
-Assignment#: 2
-Part#: 2
 
 ## Problem Statement
 This project solves "The best fit line problem", in this problem we were given with multiple data points and we have to find the best fit line for that graph.
@@ -61,4 +56,4 @@ N/A
 N/A
 
 ## Worked With
-* Amee Gorana (V#: V00882943)
+* Amee Gorana
